@@ -1,0 +1,4 @@
+- pipeline: jnpgdvmgpe
+  refs:
+  - refs/heads/master
+  on: CLICK
